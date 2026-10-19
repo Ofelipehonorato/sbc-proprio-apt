@@ -1,0 +1,32 @@
+Package: sbc-core
+Version: 0.9.0
+Architecture: amd64
+Maintainer: SBC <suporte@sbc.local>
+Installed-Size: 18875
+Depends: sbc-core-repos, postgresql, nftables, libpcre2-8-0, openssl, curl, opensips, opensips-postgres-module, opensips-dialplan-module, opensips-auth-modules, opensips-tls-module, opensips-tls-openssl-module, opensips-tlsmgm-module, opensips-regex-module, opensips-json-module, opensips-http-modules, rtpengine-daemon
+Recommends: rtpengine-kernel-dkms
+Priority: optional
+Section: net
+Filename: pool/main/s/sbc-core/sbc-core_0.9.0_amd64.deb
+Size: 7495602
+SHA256: c3b0215e63a7b26f914e6acaf4ff0d180fdd5713a8ec415072e8ed86ec4eac59
+SHA1: c2a1f7739c0ab77e3dc0617785e67ea6c9d048aa
+MD5sum: a2ef851f853f279312538acd6bd8cb15
+Description: SBC: OpenSIPS 3.6 e rtpengine 26.0 configurados por um modelo, com API REST, painel web,
+ CDR, alarmes e licença. Depois de instalar, rode "sbcctl install".
+
+Package: sbc-core-repos
+Version: 0.9.0
+Architecture: all
+Maintainer: SBC <suporte@sbc.local>
+Installed-Size: 3
+Priority: optional
+Section: net
+Filename: pool/main/s/sbc-core-repos/sbc-core-repos_0.9.0_all.deb
+Size: 4344
+SHA256: 78a4816ff022e5985f5a8c92d59e98ef4951683b21f709355f5a5144d3c88e29
+SHA1: a3abe40d952f28f3011072375745c052893cdebc
+MD5sum: 9ce79fa76601ea30c02da2ea9a6401f4
+Description: Fontes apt do OpenSIPS (apt.opensips.org, 3.6) e do rtpengine (rtpengine.dfx.at, 26.0) para o
+ sbc-core, com as versões fixadas.
+

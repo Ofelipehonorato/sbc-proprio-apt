@@ -1,0 +1,19 @@
+Origin: SBC
+Label: SBC
+Codename: trixie
+Date: Mon, 19 Oct 2026 12:39:26 UTC
+Architectures: amd64
+Components: main
+Description: Pacotes do SBC (sbc-core e sbc-core-repos)
+MD5Sum:
+ d804a9d7531e5cb5a68d03afe790f44b 1425 main/binary-amd64/Packages
+ 7d803165f0188789ae7325ab04df8427 754 main/binary-amd64/Packages.gz
+ 743efd90fc16c2bbd57083e894d61dc2 115 main/binary-amd64/Release
+SHA1:
+ c52685234cdaa542def1ac8955cd6cd54eaa2a41 1425 main/binary-amd64/Packages
+ 08d46c2086cadfb82080fdfc47440ef3e0ea553a 754 main/binary-amd64/Packages.gz
+ 6cee60bfa14172cac4ee690ec76f4fa6bd55114b 115 main/binary-amd64/Release
+SHA256:
+ 15fa35f55b9f93957da458100fc918852946e5b341e9fdcbb9d451d07c52b881 1425 main/binary-amd64/Packages
+ 4fc446d3a64f062e59b939344a23ad13cc5231cc41f8e3c63095c383489e1d0b 754 main/binary-amd64/Packages.gz
+ fa73ae5fad41e251c7e9a10ab9b3a12686fa6404153008c3fe2b8ba3617423ec 115 main/binary-amd64/Release

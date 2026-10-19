@@ -1,0 +1,7 @@
+Origin: SBC
+Label: SBC
+Codename: trixie
+Architectures: amd64
+Components: main
+Description: Pacotes do SBC (sbc-core e sbc-core-repos)
+SignWith: CCA86B720EEFC56DE2F1F578500284E5A887B7C8

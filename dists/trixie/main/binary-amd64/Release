@@ -1,0 +1,5 @@
+Component: main
+Origin: SBC
+Label: SBC
+Architecture: amd64
+Description: Pacotes do SBC (sbc-core e sbc-core-repos)
