@@ -1,19 +1,19 @@
 Origin: SBC
 Label: SBC
 Codename: trixie
-Date: Mon, 19 Oct 2026 12:39:26 UTC
+Date: Thu, 22 Oct 2026 02:30:37 UTC
 Architectures: amd64
 Components: main
 Description: Pacotes do SBC (sbc-core e sbc-core-repos)
 MD5Sum:
- d804a9d7531e5cb5a68d03afe790f44b 1425 main/binary-amd64/Packages
- 7d803165f0188789ae7325ab04df8427 754 main/binary-amd64/Packages.gz
+ 637233d6de1a943da16abbcbd797a2ee 1446 main/binary-amd64/Packages
+ a93b711f408fd76f261f24c0fc7709e6 767 main/binary-amd64/Packages.gz
  743efd90fc16c2bbd57083e894d61dc2 115 main/binary-amd64/Release
 SHA1:
- c52685234cdaa542def1ac8955cd6cd54eaa2a41 1425 main/binary-amd64/Packages
- 08d46c2086cadfb82080fdfc47440ef3e0ea553a 754 main/binary-amd64/Packages.gz
+ 6f4d58e890142a52fb4f2017a3ecb42460b41e9e 1446 main/binary-amd64/Packages
+ 4b1785b3deaca332d242eb79fdc327fbf73a850d 767 main/binary-amd64/Packages.gz
  6cee60bfa14172cac4ee690ec76f4fa6bd55114b 115 main/binary-amd64/Release
 SHA256:
- 15fa35f55b9f93957da458100fc918852946e5b341e9fdcbb9d451d07c52b881 1425 main/binary-amd64/Packages
- 4fc446d3a64f062e59b939344a23ad13cc5231cc41f8e3c63095c383489e1d0b 754 main/binary-amd64/Packages.gz
+ 4e7a5d7c7cf31ed35fe19ed62a88f2e09274edf2e8e486c86fbb77bd0c36b041 1446 main/binary-amd64/Packages
+ ff2845ba831f5bb813fab7d3bf84680f7241315d057f275442013885ad9ac523 767 main/binary-amd64/Packages.gz
  fa73ae5fad41e251c7e9a10ab9b3a12686fa6404153008c3fe2b8ba3617423ec 115 main/binary-amd64/Release
