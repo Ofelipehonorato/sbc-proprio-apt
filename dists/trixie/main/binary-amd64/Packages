@@ -1,32 +1,32 @@
 Package: sbc-core
-Version: 0.9.4
+Version: 0.10.0
 Architecture: amd64
 Maintainer: SBC <suporte@sbc.local>
-Installed-Size: 21387
+Installed-Size: 21615
 Depends: sbc-core-repos, postgresql, nftables, libpcre2-8-0, openssl, curl, opensips, opensips-postgres-module, opensips-dialplan-module, opensips-auth-modules, opensips-tls-module, opensips-tls-openssl-module, opensips-tlsmgm-module, opensips-regex-module, opensips-json-module, opensips-http-modules, rtpengine-daemon, sngrep, tcpdump
 Recommends: rtpengine-kernel-dkms, linux-headers-amd64, tshark
 Priority: optional
 Section: net
-Filename: pool/main/s/sbc-core/sbc-core_0.9.4_amd64.deb
-Size: 8568590
-SHA256: df205c425489cd6f9c36529e53c983e40e82d00152d908a98de43ff6f57f52d9
-SHA1: 1e7f0c766e2e41228b22558925a2cafece2f5656
-MD5sum: 55ced661fc5ec5c5c1c6f65b0ca05453
+Filename: pool/main/s/sbc-core/sbc-core_0.10.0_amd64.deb
+Size: 8785328
+SHA256: c7ea104f527712be2e13863cc2eb92edd82bd7bad4a705438bba3434485bf29a
+SHA1: 876645bd96b9b471d1e05769a1db5c9c1d243390
+MD5sum: e6083b8fcd1781d831aa75cfc1ff648a
 Description: SBC: OpenSIPS 3.6 e rtpengine 26.0 configurados por um modelo, com API REST, painel web,
  CDR, alarmes e licença. Depois de instalar, rode "sbcctl install".
 
 Package: sbc-core-repos
-Version: 0.9.4
+Version: 0.10.0
 Architecture: all
 Maintainer: SBC <suporte@sbc.local>
 Installed-Size: 3
 Priority: optional
 Section: net
-Filename: pool/main/s/sbc-core-repos/sbc-core-repos_0.9.4_all.deb
-Size: 4342
-SHA256: 85ef012e2f7e02df245eacfc2ef89137e681fa405871e3c22ae7ad854aad3080
-SHA1: 0476916f7ad3970620cc9f046e460a3c59b07707
-MD5sum: b52501c199f24127695c193c6578c546
+Filename: pool/main/s/sbc-core-repos/sbc-core-repos_0.10.0_all.deb
+Size: 4348
+SHA256: 50cfc564d8b98c7b6ce678f56126f84cf848ab374fe076f79157e0a1ce9121dc
+SHA1: 3b9d78dd14ed014d56793164059fa477320780cb
+MD5sum: 669f1c555c118ed7f767e0b9473b5db1
 Description: Fontes apt do OpenSIPS (apt.opensips.org, 3.6) e do rtpengine (rtpengine.dfx.at, 26.0) para o
  sbc-core, com as versões fixadas.
 
