@@ -4,26 +4,26 @@ Hash: SHA512
 Origin: SBC
 Label: SBC
 Codename: trixie
-Date: Fri, 23 Oct 2026 02:53:44 UTC
+Date: Fri, 23 Oct 2026 11:20:28 UTC
 Architectures: amd64
 Components: main
 Description: Pacotes do SBC (sbc-core e sbc-core-repos)
 MD5Sum:
- 825d646234d1269021d7d5467725ae49 1471 main/binary-amd64/Packages
- 5312779c53be1d4e81457a4be1d9307e 785 main/binary-amd64/Packages.gz
+ f870bc4800bf79a8e120d0de7b9265a6 1471 main/binary-amd64/Packages
+ 0d396b7e859524ffd03bf314eb33a3c3 786 main/binary-amd64/Packages.gz
  743efd90fc16c2bbd57083e894d61dc2 115 main/binary-amd64/Release
 SHA1:
- 5ec131249ec0d561e751729f42d5b9d3db4dbaa9 1471 main/binary-amd64/Packages
- 0a12304fc3adb29209d9a6d8cbf5cbad219e12e8 785 main/binary-amd64/Packages.gz
+ 0281a5c0c510fe5f81119d52467d4931edb4f593 1471 main/binary-amd64/Packages
+ e539f4a38c67798cbf359e25470a2bc238114480 786 main/binary-amd64/Packages.gz
  6cee60bfa14172cac4ee690ec76f4fa6bd55114b 115 main/binary-amd64/Release
 SHA256:
- 43b3e46d6dccbfb2b44b87724e3d6a435282609295546eb9fb6e8dc9bb59dd1b 1471 main/binary-amd64/Packages
- 801e7cef8436afd8f800faee9f411084a87c25c7657abfc5e3c92e657b1fc33b 785 main/binary-amd64/Packages.gz
+ 8088d59bace383847839e353505d04ee8a4e3c48b620acdb0d0cd5ddb75f29d7 1471 main/binary-amd64/Packages
+ 1c386fc71a6c307a55bd4de948b7d612d0f1b5eb4891a3b99f0036685bbf6140 786 main/binary-amd64/Packages.gz
  fa73ae5fad41e251c7e9a10ab9b3a12686fa6404153008c3fe2b8ba3617423ec 115 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTMqGtyDu/FbeLx9XhQAoTlqIe3yAUCatrMOAAKCRBQAoTlqIe3
-yOc0AQDgOAC0pzBQlMOsIRU+rpqGF371+SVq1W18AxyHcS2WkAD9Ec+Yu4ZCj1/c
-OBHI//IUJHd6GhOqQ72A/NlLbKQYtQI=
-=D4cu
+iHUEARYKAB0WIQTMqGtyDu/FbeLx9XhQAoTlqIe3yAUCattC/AAKCRBQAoTlqIe3
+yIN3AP9p4nxhggFllWZdp/jTDlCf/UL8MmCvOwtMh+lSRtjeSgEA24sdq+V+QRNt
+sZ3uqt6XgVOugT8LF3Z9Ex6zmw0MUws=
+=uY7R
 -----END PGP SIGNATURE-----
